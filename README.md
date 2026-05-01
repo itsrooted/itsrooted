@@ -1,33 +1,65 @@
-##
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6102CE&size=50&center=true&vCenter=true&width=1000&lines=HI!++𓇢𓆸+;✳++My+Name+is+CYBERWARE++✳;Welcome+to+My+Github+Profile++ඞ+++)](https://git.io/typing-svg)
+<div align="center">
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6102CE&size=45&center=true&vCenter=true&width=1000&lines=Hi+Friend!+𓇢𓆸;✦+My+Name+is+Cyber+✦;Welcome+to+My+Github+Profile+ඞ)](https://git.io/typing-svg)
 
-## Languages
-<p align="left"> <br>
-  <img alt="C" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img alt="C++" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img alt="C#" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</p>
+</div>
 
-<br>
+---
 
-## Tools
-<p align="left"> <br>
-  <img alt="VISUAL STUDIO" height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
-  <img alt="VSCODE" height="55" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
-  <img alt="WINDOWS" height="55" src="https://img.icons8.com/fluency/48/windows-11.png">
-  <img alt="LINUX" height="55" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000">
-  <img alt="KALI" height="55" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000">
-  <img alt="GITHUB" height="55" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000">
-  <img alt="GIT" height="55" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
-  <img alt="TERMINAL" height="55" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000">
-  <img alt="VMWARE" height="55" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000">
-  <img alt="QEMU" height="55" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png">
-</p>
+## 👨‍💻 About Me
+```yaml
+Name: CYBERWARE
+Focus: Cybersecurity | Networking | Software Development
+Languages: C, C++, C#
+OS: Windows, Linux, Kali Linux
+```
 
-###
+---
 
-<br>
+## 💻 Languages
+<div align="center">
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+</div>
+
+---
+
+## 🛠 Tools
+<div align="center">
+  <img height="50" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/fluency/48/windows-11.png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000"/>
+  <img height="50" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsrooted&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrooted&layout=compact&theme=midnight-purple&hide_border=true"/>
+</div>
+
+---
+
+## 🔥 Contribution
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrooted&theme=midnight-purple&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=itsrooted&color=blueviolet&style=for-the-badge)
+
+</div>
