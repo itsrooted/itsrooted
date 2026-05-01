@@ -6,14 +6,14 @@
 ###
 
 ## Languages
-<p align="left">
+<p align="left"> <br>
   <img alt="C" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img alt="C++" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img alt="C#" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </p>
 
 ## Tools
-<p align="left">
+<p align="left"> <br>
   <img alt="VISUAL STUDIO" height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
   <img alt="VSCODE" height="55" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
   <img alt="WINDOWS" height="55" src="https://img.icons8.com/fluency/48/windows-11.png">
