@@ -12,7 +12,7 @@
   <img alt="C#" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </p>
 
-<br> <br>
+<br>
 
 ## Tools
 <p align="left"> <br>
@@ -30,4 +30,4 @@
 
 ###
 
-<br> <br>
+<br>
