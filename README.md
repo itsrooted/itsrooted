@@ -6,7 +6,7 @@
 ##
 
 ### Languages
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -15,7 +15,7 @@
 ##
 
 ### Tools
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="VISUAL STUDIO" height="60" width="60" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
     <img align="center" alt="VSCODE" height="62" width="62" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
     <img align="center" alt="WINDOWS" height="60" width="60" src="https://img.icons8.com/fluency/48/windows-11.png" alt="windows-11">
