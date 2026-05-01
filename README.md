@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6102CE&size=45&center=true&vCenter=true&width=1000&lines=Hi+Friend!+𓇢𓆸;✦+My+Name+is+Cyber+✦;Welcome+to+My+Github+Profile+ඞ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+Friend!+𓇢𓆸;✦+My+Name+is+Cyber+✦;Welcome+to+My+Github+Profile+ඞ&gradient=true&gradientColor=ff00ff,00ffff,00ff00,ffff00,ff0000)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,14 +39,6 @@ OS: Windows, Linux, Kali Linux
   <img height="50" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000"/>
   <img height="50" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000"/>
   <img height="50" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsrooted&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrooted&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
 
 ---
