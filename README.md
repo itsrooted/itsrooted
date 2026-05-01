@@ -12,6 +12,8 @@
   <img alt="C#" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </p>
 
+<br> <br>
+
 ## Tools
 <p align="left"> <br>
   <img alt="VISUAL STUDIO" height="55" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
@@ -28,4 +30,4 @@
 
 ###
 
-<br>
+<br> <br>
