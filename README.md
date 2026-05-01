@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 ```yaml
-Name: CYBERWARE
+Name: Cyber
 Focus: Cybersecurity | Networking | Software Development
-Languages: C, C++, C#
+Languages: C, C++, C#, Python
 OS: Windows, Linux, Kali Linux
 ```
 
