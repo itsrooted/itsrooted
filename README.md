@@ -38,8 +38,7 @@ OS: Windows, Linux, Kali Linux
   <img height="50" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
   <img height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
   <img height="50" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000"/>
-  <img height="50" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000"/>
 </div>
 
 ---
