@@ -30,15 +30,15 @@ OS: Windows, Linux, Kali Linux
 
 ## 🛠 Tools
 <div align="center">
-  <img height="50" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000"/>
-  <img height="60" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000"/>
+  <img height="50" alt="VSdev" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000"/>
+  <img height="50" alt="VScode" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
+  <img height="50" alt="Windows" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000"/>
+  <img height="50" alt="Linux" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000"/>
+  <img height="60" alt="Kali" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000"/>
+  <img height="50" alt="Github" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
+  <img height="50" alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+  <img height="50" alt="Terminal" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000"/>
+  <img height="50" alt="OracleVM" src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000"/>
 </div>
 
 ---
