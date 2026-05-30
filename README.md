@@ -31,7 +31,7 @@ OS: Windows, Linux, Kali Linux
 ## 🛠 Tools
 <div align="center">
   <img height="50" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
   <img height="50" src="https://img.icons8.com/fluency/48/windows-11.png"/>
   <img height="50" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000"/>
   <img height="60" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000"/>
