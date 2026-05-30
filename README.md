@@ -21,7 +21,7 @@ OS: Windows, Linux, Kali Linux
 ## 💻 Languages
 <div align="center">
   <img height="55" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
-  <img height="55" src="https://img.icons8.com/?size=100&id=cHSOHM4O8jPm&format=png&color=000000"/>
+  <img height="55" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
   <img height="55" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000"/>
   <img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
 </div>
