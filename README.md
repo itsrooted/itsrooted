@@ -20,10 +20,10 @@ OS: Windows, Linux, Kali Linux
 
 ## 💻 Languages
 <div align="center">
-  <img height="53" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img height="55" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
+  <img height="55" src="https://img.icons8.com/?size=100&id=cHSOHM4O8jPm&format=png&color=000000"/>
+  <img height="55" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000"/>
+  <img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
 </div>
 
 ---
